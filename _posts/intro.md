@@ -76,6 +76,7 @@ title: '关于赢者篮球小程序'
 * [如何创建分组及球队](https://doc.jsongtech.com/team)
 * [如何创建和修改比赛](https://doc.jsongtech.com/game)
 * [如何进行数据统计](https://doc.jsongtech.com/stat)
+* [如何进行视频直播](https://doc.jsongtech.com/live)
 
 欢迎加入我们的用户交流QQ群：1156901386
 
