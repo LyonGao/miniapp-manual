@@ -80,6 +80,4 @@ title: '关于赢者篮球小程序'
 
 欢迎加入我们的用户交流QQ群：1156901386
 
-扫描下方小程序码进入小程序：
-
-![logo](/assets/blog/intro/mini-app.jpg)
+![logo](/assets/blog/intro/7.png)
